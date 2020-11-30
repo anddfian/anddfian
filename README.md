@@ -9,6 +9,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddfian&layout=compact" alt="Andi Alfian B's github stats"/>
    </a>
    <a href="https://github.com/anddfian/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anddfian&hide=issues&count_private=true&show_icons=true" alt="dandyraka's github stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anddfian&hide=issues&count_private=true&show_icons=true" alt="Andi Alfian B's github stats" />
    </a>
 </p>
