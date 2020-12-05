@@ -1,5 +1,6 @@
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'> Hello there! My name is Andi Alfian B. 😎 </p>
+<a align='center' href="https://github.com/anddfian"><img src="https://github.com/anddfian/anddfian/blob/main/images/header.png?raw=true"></a>&nbsp;&nbsp;
+<h1 align='center'> Hi there! :wave:</h1>
+<p align='center'> My name is Andi Alfian B. I am student Mulawarman University 😎 </p>
 <p align='center'>
    <a href="https://twitter.com/anddfian"><img height="30" src="https://github.com/anddfian/anddfian/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/anddfian"><img height="30" src="https://github.com/anddfian/anddfian/blob/main/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
